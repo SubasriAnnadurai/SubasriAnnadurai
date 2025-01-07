@@ -10,6 +10,6 @@
 -- Checkout My Resume..!
 <html>
   <body>
-    <iframe src="https://drive.google.com/file/d/1PV6m6vgBOfRL4SmO6tXsZs5TB-9ugyFg/view?usp=drive_link" style="width:500px"></iframe>
+    Feel Free to Checkout my Resume :: <a href="https://drive.google.com/file/d/1PV6m6vgBOfRL4SmO6tXsZs5TB-9ugyFg/view?usp=drive_link" target="_blank">Click Here..!</a>
   </body>
 </html>
