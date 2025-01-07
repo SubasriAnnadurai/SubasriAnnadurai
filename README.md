@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ SubasriAnnadurai
+- 👋 Hi, I’m @ Subasrin Annadurai
 - 👀 I’m interested in Front end Developement
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Real World Projects
